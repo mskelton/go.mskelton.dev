@@ -1,3 +1,9 @@
+# go.mskelton.dev
+
+Short links for [mskelton.dev](https://mskelton.dev).
+
+## Usage
+
 ```bash
 short https://mskelton.dev/long-url short
 ```
