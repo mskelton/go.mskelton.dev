@@ -16,4 +16,5 @@
 /username                https://mskelton.dev/blog/my-experience-changing-my-github-username
 /yarn-outdated/:version  https://raw.githubusercontent.com/mskelton/yarn-plugin-outdated/:version/bundles/@yarnpkg/plugin-outdated.js  200
 
+/                        https://mskelton.dev
 /*                       https://mskelton.dev
