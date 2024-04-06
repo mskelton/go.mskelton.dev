@@ -1,5 +1,6 @@
 /:repo/install           https://raw.githubusercontent.com/mskelton/:repo/main/scripts/install.sh                                      200
 /constraints             https://mskelton.dev/blog/using-yarn-constraints
+/cursors                 https://mskelton.dev/blog/building-figma-multiplayer-cursors
 /derived-state           https://mskelton.dev/blog/conquering-derived-state
 /dprint/:version.json    https://raw.githubusercontent.com/mskelton/dprint-config/:version/dprint.json                                 200
 /npm-publishing          https://mskelton.dev/blog/automated-npm-publishing-using-github-actions
