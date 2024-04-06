@@ -6,13 +6,10 @@
 /npm-publishing          https://mskelton.dev/blog/automated-npm-publishing-using-github-actions
 /prettier                https://mskelton.dev/blog/auto-formatting-code-using-prettier-and-github-actions
 /ratchet.ts              https://raw.githubusercontent.com/mskelton/ratchet/main/transform.ts                                          200
-/ratchet/:splat          https://ratchet-mskelton.vercel.app/*                                                                         200
-/resume.pdf              https://mskelton.dev/mark-skelton.pdf                                                                         200
 /semantic-release        https://mskelton.dev/blog/automating-npm-package-releases
 /semicolons              https://mskelton.dev/blog/stop-using-semicolons
 /shallow                 https://mskelton.dev/blog/the-dangers-of-shallow-rendering
 /staff-engineer          https://mskelton.dev/blog/my-journey-to-become-a-staff-software-engineer
-/termicons/:splat        https://mskelton.github.io/termicons/*                                                                        200
 /username                https://mskelton.dev/blog/my-experience-changing-my-github-username
 /yarn-outdated/:version  https://raw.githubusercontent.com/mskelton/yarn-plugin-outdated/:version/bundles/@yarnpkg/plugin-outdated.js  200
 
